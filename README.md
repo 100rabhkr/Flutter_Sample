@@ -1,8 +1,8 @@
 # myapp
 
 A new Flutter application.
+Sample flutter project for GDG New Delhi's Flutter Extended registration
 
-## Sample flutter project for GDG New Delhi's Flutter Extended registration
 
 
 
