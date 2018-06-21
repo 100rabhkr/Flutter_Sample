@@ -2,7 +2,7 @@
 
 A new Flutter application.
 Sample flutter project for GDG New Delhi's Flutter Extended registration
-
+![alt text](https://preview.ibb.co/nOPwZo/Screenshot_2018_06_22_02_27_52.png)
 
 
 
